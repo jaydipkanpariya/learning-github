@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	background:	#fff;
+	background: white;
 	font-family: 'Monda', sans-serif !important;
 }
 p{
@@ -22,7 +22,7 @@ body a:hover{
 /*-- header_top --*/
 .top_bg{
 	background:#f65a5b;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 .header_top{
 	padding:2em 0;
@@ -33,7 +33,7 @@ body a:hover{
 	text-decoration: none;
 	background: url(../images/1.png) no-repeat 0px 0px;
 	display: block;
-	height: 50px;
+	height: 55px;
 	padding-left: 1.8em;
 }
 .logo a:hover{
@@ -74,7 +74,7 @@ body a:hover{
 	text-transform:uppercase;
 	font-size:12px;
 	display:block;
-	color:#ffffff;
+	color:white;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
